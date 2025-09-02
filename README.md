@@ -2,7 +2,7 @@
 
 | The Corridor 8 | 8番ライク | [PLAY](https://ohr25375.github.io/TheCorridor8/) |
 
-#How To Play
+# How To Play
 
 Move: WASD
 Look: Mouse
