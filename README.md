@@ -4,9 +4,9 @@
 
 # How To Play
 
-Move: WASD
-Look: Mouse
-Run : LShift
-Menu: Escape
-
-This game has sound. Play with headphones for the best experience!
+Move: WASD  
+Look: Mouse  
+Run : LShift  
+Menu: Escape  
+  
+This game has sound. Play with headphones for the best experience!  
