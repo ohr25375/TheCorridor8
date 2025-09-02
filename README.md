@@ -9,4 +9,4 @@ Look: Mouse
 Run : LShift  
 Menu: Escape  
   
-This game has sound. Play with headphones for the best experience!  
+<ins>**This game has sound!**</ins> Play with headphones for the best experience!  
